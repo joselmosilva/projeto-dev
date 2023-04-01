@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family= Poppins :wght@400;500;700 & display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sem serifa;
+
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+
+}
+
+.link-menu {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    margin-right: 32px;
+}
