@@ -41,7 +41,7 @@ header {
 img {
     margin: 163px 0 0 123px;
     display:  inline-block;
-    width: 300px;
+    width: 200px;
 }
 
 section {
@@ -84,3 +84,4 @@ p {
     cursor: pointer;
     border: none;
 }
+
